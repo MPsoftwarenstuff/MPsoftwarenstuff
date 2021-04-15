@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MPsoftwarenstuff
+- 👀 I’m interested in ... Mobile App Design and Graphics Programming
+- 🌱 I’m currently learning ... Mic1 Architecture and Ocaml
+- 💞️ I’m looking to collaborate on ... Literally anything I love projects
+- 📫 How to reach me ... I don't speak to strangers
