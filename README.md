@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MPsoftwarenstuff
-- 👀 I’m interested in ... Mobile App Design and Graphics Programming
+- 👀 I’m interested in ... Mobile App Design and Algorithms
 - 🌱 I’m currently learning ... Software Engineering Principles, Mobile App Development with Kotlin, and Operating Systems.
 - 💞️ I’m looking to collaborate on ... Literally anything I love projects!
